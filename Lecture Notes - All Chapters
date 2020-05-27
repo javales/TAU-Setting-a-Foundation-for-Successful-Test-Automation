@@ -1,0 +1,14 @@
+# Chapter 4 - Tooling for Test Automation
+
+- Bare minimum for test automation project - [interaction tool] and [validation tool]
+- Three test levels - [unit tests], [service], and [UI]
+
+## Unit Test
+- written in the same language
+- execution is the call to the function
+
+## Service Level
+- for API's, execute the HTTP calls and read through the responses
+- use a [language] that makes this easy, or [libraries] that boilerplates the work 
+
+## UI

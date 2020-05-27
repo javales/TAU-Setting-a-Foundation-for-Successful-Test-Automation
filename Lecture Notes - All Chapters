@@ -12,3 +12,12 @@
 - use a [language] that makes this easy, or [libraries] that boilerplates the work 
 
 ## UI
+- [navigation library] provides ability to interact with HTML elements of application 
+- look at how well the language is supported by automation tools
+- consider [browsers] and [devices] you need to run automation against
+
+## [Validation] Libraries
+- turn your code into tests
+- verify: functional, visual, accessibility, security, ...
+- can also add a [Reporting Library] for screenshots, videos of failures, integration of "gherkin scenario files" if practicing [behavior-driven development]
+- if running tests as part of CI, you'll want to choose tools that will allow for this integration
